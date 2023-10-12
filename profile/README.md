@@ -4,16 +4,16 @@ This is an attempt to house/keep record of all the various projects which Turing
 
 If you wish to contribute, kindly contact the current club officials.
 
-## Club Officials 2022-23
+## Club Officials 2023-24
 
 ### Convener: 
 
-[Aditya Jain](mailto:ms19030@iisermohali.ac.in) (MS19030)
+[Rishi Vora](mailto:ms21113@iisermohali.ac.in) (MS19030)
 
 ### Co-Conveners:
 
-[Rajnil Mukherjee](mailto:ms21213@iisermohali.ac.in) (MS21213)
-[Kaushik Gupta](mailto:ms20129@iisermohali.ac.in) (MS20129)
+[Kshitish Kumar Ratha](mailto:ms22174@iisermohali.ac.in) (MS21213)
+[Darsh Ambade](mailto:ms22068@iisermohali.ac.in) (MS20129)
 
 You can also contact us at [turingclub@iisermohali.ac.in](mailto:turingclub@iisermohali.ac.in)
 
