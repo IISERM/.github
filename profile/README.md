@@ -13,6 +13,7 @@ If you wish to contribute, kindly contact the current club officials.
 ### Co-Conveners:
 
 [Kshitish Kumar Ratha](mailto:ms22174@iisermohali.ac.in) (MS21213)
+
 [Darsh Ambade](mailto:ms22068@iisermohali.ac.in) (MS20129)
 
 You can also contact us at [turingclub@iisermohali.ac.in](mailto:turingclub@iisermohali.ac.in)
