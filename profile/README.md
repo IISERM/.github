@@ -8,13 +8,13 @@ If you wish to contribute, kindly contact the current club officials.
 
 ### Convener: 
 
-[Rishi Vora](mailto:ms21113@iisermohali.ac.in) (MS19030)
+[Rishi Vora](mailto:ms21113@iisermohali.ac.in) (MS21113)
 
 ### Co-Conveners:
 
-[Kshitish Kumar Ratha](mailto:ms22174@iisermohali.ac.in) (MS21213)
+[Kshitish Kumar Ratha](mailto:ms22174@iisermohali.ac.in) (MS22174)
 
-[Darsh Ambade](mailto:ms22068@iisermohali.ac.in) (MS20129)
+[Darsh Ambade](mailto:ms22068@iisermohali.ac.in) (MS22068)
 
 You can also contact us at [turingclub@iisermohali.ac.in](mailto:turingclub@iisermohali.ac.in)
 
