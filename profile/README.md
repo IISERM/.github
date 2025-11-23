@@ -1,28 +1,29 @@
-# Welcome to the IISER Mohali GitHub organisation page, maintained by Turing: the Computation Club of IISER Mohali
+# Welcome to the IISER Mohali GitHub organisation page, maintained by Turing: The Computation Club of IISER Mohali
 
-This is an attempt to house/keep record of all the various projects which Turing/it's members undertook for different events, clubs, etc.
+This is an attempt to house/keep record of all the various projects which Turing and its members undertook for different events, clubs, etc.
 
 If you wish to contribute, kindly contact the current club officials.
 
-## Club Officials 2023-24
+## Club Officials 2025-26
 
 ### Convener: 
 
-[Gokul P Bharathan](mailto:ms23027@iisermohali.ac.in) (MS23027)
+[Tamaghna Dey](mailto:ms24205@iisermohali.ac.in) (MS24205)
 
 ### Co-Conveners:
 
-[Harshita Garg](mailto:ms23216@iisermohali.ac.in) (MS23216)
+[Kshitij Salunke](mailto:ms24024@iisermohali.ac.in) (MS24024)
 
-[Aniket Neelay](mailto:ms23087@iisermohali.ac.in) (MS23087)
+[Harsh Vardhan Shreshth](mailto:ms24085@iisermohali.ac.in) (MS24085)
 
 You can also contact us at [turingclub@iisermohali.ac.in](mailto:turingclub@iisermohali.ac.in)
 
 "Happy" Debugging!
 
+<!-- social handles
 [Twitter]()
 [Instagram]()
-
+-->
 
 <!--
 
